@@ -1,0 +1,3 @@
+﻿ <260948660921347232> 05/08/2024 18:18:33.277     [Error  ] - Online task cannot be executed using a Background Runtime engine. Please set the Deployment Mode to Online.  >> Application: "C:\Magicxpa411\Projects\testDP1\", Program: "Test1".
+ <491089259674007424> 05/08/2024 18:40:26.050     [Error  ] - File not found: : dir > C:\PATH.txt, Program: "Test1".
+ <491089259674007424> 05/08/2024 18:40:31.080     [Error  ] - File not found: : dir > C:\PATH.txt, Program: "Test1".
